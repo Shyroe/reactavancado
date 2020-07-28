@@ -7,7 +7,7 @@
 
 ![reactavancado](https://user-images.githubusercontent.com/32007101/88607091-b6bea880-d054-11ea-8536-209268d8eb36.png)
 
-Acessar projeto: ![reactavancado](https://reactavancado.com.br)
+Acessar projeto: [reactavancado](https://reactavancado.com.br)
 
 # ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
 
